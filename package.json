@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "gcal-holiday",
+  "scripts": {
+    "deploy": "clasp push"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0",
+    "@types/google-apps-script": "^1.0.31"
+  }
+}
